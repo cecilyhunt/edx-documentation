@@ -12,6 +12,9 @@ December, 2014
 
    * - Date
      - Change
+   * - 12/08/14
+     - Added the chapters :ref:`Google Document Tool` and :ref:`Google Calendar
+       Tool`.
    * - 12/02/14
      - Added email template for :ref:`Weekly Highlights` email to students.
    * - 
