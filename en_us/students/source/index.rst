@@ -14,6 +14,7 @@ edX Guide for Students
    change_log
    SFD_introduction
    SFD_video_player
+   SFD_google_docs
    SFD_certificates
    SFD_mathformatting
    SFD_ORA
