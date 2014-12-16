@@ -14,7 +14,7 @@ community, provide specialized experiences, and encourage deeper, more
 meaningful course involvement.
 
 If you decide to use cohort groups in your course, you define a set of cohort
-gorups to reflect communities of students, then select a strategy for
+groups to reflect communities of students, then select a strategy for
 :ref:`assigning students to cohort groups<Options for Assigning Students to
 Cohorts>`. 
 
@@ -132,7 +132,7 @@ cohort group.
  set up a single auto cohort group, as described for the :ref:`hybrid
  assignment strategy<Hybrid Assignment>`. If you do not create an auto cohort
  group, the system automatically creates a :ref:`default cohort group<Default
- Cohort Group>` and assignes students to it if necessary.
+ Cohort Group>` and assigns students to it if necessary.
 
 For more information, see :ref:`Implementing the Manual Assignment Strategy`.
 
