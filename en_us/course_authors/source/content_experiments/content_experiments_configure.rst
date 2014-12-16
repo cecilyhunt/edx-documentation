@@ -66,40 +66,42 @@ during your course. In one content experiment, students either see a video or
 complete a reading assignment. You can then include problems so that you can
 see which group learned the material more completely. For this content
 experiment, you need a group configuration that assigns your students to two
-groups.
+experiment groups.
 
 In the other content experiment, you can present the same question using four 
-different types of problem. For this content experiment, you need a
-group configuration that assigns your students to four groups.
+different types of problems. For this content experiment, you need a
+group configuration that assigns your students to four experiment groups.
 
-=============================
-Assigning Students to Groups
-=============================
+=======================================
+Assigning Students to Experiment Groups
+=======================================
 
-The edX Platform assigns students to each group in a group configuration. 
+The edX Platform assigns students to each experiment group in a group
+configuration.
 
-Group assignments are:
+Experiment group assignments are:
 
 * Dynamic
 
-  The edX Platform assigns a student to a group the first time he or she views
-  a content experiment that uses the group configuration.
+  The edX Platform assigns a student to an experiment group the first time he or
+  she views a content experiment that uses the group configuration.
 
 * Random
   
-  You cannot control which students are assigned to which group. 
+  You cannot control which students are assigned to which experiment group. 
   
 * Evenly distributed
   
-  The edX Platform keeps track of the size of groups and assigns new students
-  to groups evenly. For example, when there are two groups in a configuration,
-  each group will include 50% of the students in the course; when you have four
-  groups, each group will include 25%.
+  The edX Platform keeps track of the size of experiment groups, and assigns new
+  students to groups evenly. For example, when there are two experiment groups
+  in a configuration, each group will include 50% of the students in the course;
+  when you have four experiment groups, each group will include 25%.
 
 * Permanent
   
-  Students remain in their assigned groups regardless of how many content
-  experiments you set up that use the same group configuration.
+  Students remain in their assigned experiment groups regardless of how many
+  content experiments you set up that use the same group configuration.
+
 
 .. _Set up Group Configurations in edX Studio:
 
@@ -112,11 +114,7 @@ Set up Group Configurations in edX Studio
   you can set up group configurations.
 
 To set up group configurations, on the **Settings** menu, select **Group
-Configurations**. The **Group Configurations** page opens:
-
-.. image:: ../Images/group_configurations.png
- :width: 800
- :alt: The Group Configurations page
+Configurations**. The **Group Configurations** page opens.
 
 From this page you can :ref:`create<Create a Group Configuration>`,
 :ref:`edit<Edit a Group Configuration>`, and :ref:`delete<Delete a Group
@@ -131,8 +129,7 @@ Create a Group Configuration
 
 You can create a group configuration at any time.
 
-#. On the **Group Configurations** page, click **Add Your First Group
-   Configuration**. The following page opens:
+#. On the **Group Configurations** page, under **Experiment Groups**, click **New Experiment Group**. The following page opens:
 
   .. image:: ../Images/create-group-config.png
    :width: 800
