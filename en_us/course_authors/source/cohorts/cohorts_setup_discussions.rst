@@ -1,21 +1,70 @@
+
 .. _Set up Discussions in Cohorted Courses:
 
 
-##########################################################
+######################################################
 Setting up Discussions in Courses with Student Cohorts
-##########################################################
+######################################################
 
+By using cohort groups in a course and creating discussion topics that are
+divided by cohort, you provide students with the ability to ask questions of,
+and have conversations with, other members of their cohort. Cohort-only
+discussion opportunities can help students develop a sense of community, provide
+specialized experiences, and encourage deeper, more meaningful course
+involvement.
 
 When you first enable cohorts in your course, all course-wide discussion topics
 provide unified access to posts for all students. You can configure one or more
-of the course-wide topics to be divided by cohort instead.
+of the course-wide topics to be divided by cohort instead. For details, see :ref:`Configure CourseWide Discussion Topics as Private`.
 
 .. note:: The content-specific discussion topics in the course, which are 
  added to units as discussion components, are always divided by cohort.
 
 For overview information about discussions in a course, see :ref:`Discussions`.
-For information about setting up cohorts in a course, see :ref:`Enabling and
-Configuring Cohorts`.
+For information about using cohort groups in a course, see :ref:`Cohorts
+Overview` and :ref:`Enabling and Configuring Cohorts`.
+
+
+**************************************************
+Course-Wide Discussion Topics Are Configurable
+**************************************************
+
+To create course-wide discussion topics, you add them on the **Advanced
+Settings** page in Studio. By default, each of these topics is unified. All of
+the students in the course can post, read, respond, and comment in course-wide
+discussion topics without regard to their cohort group assignments. After you
+add a course-wide topic, you can configure it so that it is divided by cohort
+instead.
+
+For example, in addition to the General topic, which is supplied by default,
+you create these additional course-wide topics: Course Q&A, Announcements, and
+Brainstorming. You want all students to be able to read and contribute to all
+of the posts in the General and Course Q&A topics. However, you want the
+Announcements and Brainstorming topics to be divided, so that students will
+only be able to read and respond to contributions by the members of their own
+cohorts. You complete the additional configuration step for the Announcements
+and Brainstorming topics only.
+
+For information about course-wide discussion topics, see
+:ref:`Organizing_discussions`. For information about configuring these topics, 
+see :ref:`Configure CourseWide Discussion Topics as Private`.
+
+
+**************************************************
+All Content-Specific Discussion Topics Are Divided
+**************************************************
+
+Each of the content-specific discussion topics is divided by cohort. A student
+who is assigned to one cohort group cannot read or add to the posts, responses,
+or comments contributed by the members of another cohort group.
+
+To create content-specific discussion topics in a course, you add units that
+include discussion components. In a course with the cohort feature enabled, you
+do not have the option to change these topics to be unified for all students.
+
+For more information about content-specific discussion topics,
+see :ref:`Organizing_discussions`.
+
 
 ******************************************
 Course-Wide Discussion Topics and Cohorts
@@ -60,7 +109,7 @@ how to achieve this, see :ref:`Apply Naming Conventions to Discussion Topics`.
 .. _Configure CourseWide Discussion Topics as Private:
 
 ======================================================
-Define Divided Course-Wide Discussion Topics
+Configure Course-Wide Discussion Topics as Divided
 ======================================================
 
 This procedure shows how to configure the Brainstorming and Announcements

@@ -1,104 +1,47 @@
 .. _Cohorts Overview:
 
 ##########################################
-Using Cohorts to Build Course Communities
+Using Cohort Groups in your Courses
 ##########################################
 
-Cohorts create smaller communities of students within a course. Students who
-are in a cohort can communicate and share experiences privately within course
-discussion topics.
+By :ref:`setting up cohort groups<Enabling and Configuring Cohorts>` in a
+course, you create smaller communities of students. You can design different
+course experiences for students in different cohort groups, including assigning
+different course materials and problems. In discussion topics that are divided
+by cohorts, students can also communicate and share experiences privately within
+the cohort group that they are assigned to. Cohort-only discussion opportunities can help students develop a sense of
+community, provide specialized experiences, and encourage deeper, more
+meaningful course involvement.
 
-By :ref:`enabling the cohort feature<Enabling and Configuring Cohorts>` in a
-course, you provide students with the ability to ask questions of, and have
-conversations with, other members of their cohort. Cohort-only discussion
-opportunities can help students develop a sense of community, provide
-specialized experiences, and encourage deeper, more meaningful course
-involvement.
+If you decide to use cohort groups in your course, you define a set of cohort
+gorups to reflect communities of students, then select a strategy for
+:ref:`assigning students to cohort groups<Options for Assigning Students to
+Cohorts>`. 
 
-When you enable the cohort feature for your course, the discussion topics that
-you include in units by adding discussion components are divided by cohort.
-This means that each post that a student makes to those content-specific topics
-can only be read, and responded to, by members of the same cohort. However, any
-course-wide discussion topics that you set up for your course remain unified.
-This means that all posts can be read, and responded to, by every student. You
-can change some, or all, of your course-wide topics to be divided by cohort.
-See :ref:`Options for Discussion Topics`.
+Note that:
 
-This section also describes your options for :ref:`assigning students to cohort
-groups<Options for Assigning Students to Cohorts>`. When you enable the cohort
-feature, you define a set of cohort groups to reflect communities of students,
-and select a strategy for assigning students to those groups. Note that:
-
-* Every student must be assigned to a cohort group. This assures that every
-  student has the ability to read and contribute to all of the course
-  discussion topics.
+* Every student must be assigned to a cohort group. This ensures that every
+  student has the ability to read and contribute to course discussion topics.
 
 * Each student is in one and only one cohort group. 
 
-To provide a consistent experience throughout the course run, each student's
-assignment to a cohort group should remain unchanged after the course begins.
+.. note:: To provide students with a consistent experience throughout the course
+   run, do not change a student's assignment to a cohort group after  the course
+   begins.
 
-For more information, see:
+
+For more information about using cohort groups in courses, see:
 
 * :ref:`Enabling and Configuring Cohorts`
 
+* :ref:`Setting Up Discussions in Cohorted Courses<Set up Discussions in Cohorted Courses>`
+
 * :ref:`Moderating Discussions for Cohorts`
 
-For information about discussions, see :ref:`Discussions`.
+For information about discussions in general, see :ref:`Discussions`.
 
-.. _Options for Discussion Topics:
 
-*********************************
-Options for Discussion Topics
-*********************************
 
-By enabling the cohort feature in a course, you provide students with the
-ability to ask questions of, and have conversations with, other members of
-their cohort. By offering cohort-only discussion oppotunities, the cohort
-feature can help students develop a sense of community, provide specialized
-experiences, and encourage deeper, more meaningful course involvement.
-
-Enabling the cohort feature has different effects on the course-wide discussion
-topics and the content-specific discussion topics in the course.
-
-===================================================
-Course-Wide Discussion Topics Are Configurable
-===================================================
-
-To create course-wide discussion topics, you add them on the **Advanced
-Settings** page in Studio. By default, each of these topics is unified. All of
-the students in the course can post, read, respond, and comment in course-wide
-discussion topics without regard to their cohort group assignments. After you
-add a course-wide topic, you can configure it so that it is divided by cohort
-instead.
-
-For example, in addition to the General topic, which is supplied by default,
-you create these additional course-wide topics: Course Q&A, Announcements, and
-Brainstorming. You want all students to be able to read and contribute to all
-of the posts in the General and Course Q&A topics. However, you want the
-Announcements and Brainstorming topics to be divided, so that students will
-only be able to read and respond to contributions by the members of their own
-cohorts. You complete the additional configuration step for the Announcements
-and Brainstorming topics only.
-
-For information about course-wide discussion topics, see
-:ref:`Organizing_discussions`. For information about configuring these topics, 
-see :ref:`Configure CourseWide Discussion Topics as Private`.
-
-===================================================
-All Content-Specific Discussion Topics Are Divided
-===================================================
-
-Each of the content-specific discussion topics is divided by cohort. A student
-who is assigned to one cohort group cannot read or add to the posts, responses,
-or comments contributed by the members of another cohort group.
-
-To create content-specific discussion topics in a course, you add units that
-include discussion components. In a course with the cohort feature enabled, you
-do not have the option to change these topics to be unified for all students.
-
-For more information about content-specific discussion topics,
-see :ref:`Organizing_discussions`.
 
 .. _Options for Assigning Students to Cohorts:
 
