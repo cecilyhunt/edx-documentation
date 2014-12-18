@@ -52,11 +52,11 @@ You can work with HTML in two ways:
   
   With the Visual editor you can create, edit, and format content in a word
   processing-like interface, without using HTML code directly. With the Visual
-  editor, you can more easily format your content, and add links and images. The
-  Visual editor provides access to HTML code so you can make small changes to
-  formatting, if required. However, the HTML view in the Visual editor does not
-  provide the detailed control you can get with the Raw HTML editor, and does
-  not support custom formatting or scripts.
+  editor, you can more easily format your content, and add links and images.
+  The Visual editor provides access to HTML code so you can make small changes
+  to formatting, if required. However, the HTML view in the Visual editor does
+  not provide the detailed control you can get with the Raw HTML editor, and
+  does not support custom formatting or scripts.
 
 * :ref:`The Raw HTML Editor`
 
@@ -94,6 +94,9 @@ the editor.
 
 .. image:: ../Images/HTMLEditor.png
  :alt: Image of the HTML component editor
+
+.. note:: 
+  The Visual editor is not available for :ref:`course handouts <Adding Course Updates and Handouts>`.
 
 The following image shows call-outs for the editing options and is followed by
 descriptions.
