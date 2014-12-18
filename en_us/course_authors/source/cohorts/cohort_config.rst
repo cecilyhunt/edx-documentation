@@ -20,10 +20,10 @@ applicable):
   * :ref:`Define automatic cohort groups<Define Auto Cohort Groups>` OR
 
   * :ref:`Define manual cohort groups<Define the Manual Cohort Groups>` and
-    :ref:`manually assign students<Assign Students to Cohort Groups
-    Manually>` to them, OR
+    :ref:`manually assign students<Assign Students to Cohort Groups Manually>`
+    to them, OR
 
-  * Do both. 
+  * Do both.
    
 3. Identify any :ref:`course-wide discussion topics<Identifying Private
    CourseWide Discussion Topics>` that you want to be divided by cohort, then
@@ -107,9 +107,9 @@ divided by cohort. See :ref:`Read the Cohort Indicator in Posts`.
    it within quotation marks (``" "``), and separate the quoted name values
    with commas. For example:
    
- .. code:: 
+   .. code:: 
 
-   "auto_cohort_groups": [
+  "auto_cohort_groups": [
        "Example Group Name A",
        "Example Group Name B",
        "Example Group Name C"
@@ -222,8 +222,8 @@ Assign Students to Cohort Groups Manually
    another cohort group was changed by this procedure.
 
 For a report that includes the cohort group assignment for every enrolled
-student, review the student profile information for your course. See
-:ref:`View and download student data`.
+student, review the student profile information for your course. See :ref:`View
+and download student data`.
 
 
 .. _Assign Students to Cohort Groups by uploading CSV:
