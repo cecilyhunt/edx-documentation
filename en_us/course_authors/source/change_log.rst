@@ -12,6 +12,10 @@ December, 2014
 
    * - Date
      - Change
+   * - 12/18/14
+     - Updated :ref:`Adding Course Updates and Handouts` and :ref:`The Visual
+       Editor` to clarify that the visual editor is not supported for course
+       handouts.
    * - 12/02/14
      - Added email template for :ref:`Weekly Highlights` email to students.
    * - 
