@@ -48,6 +48,8 @@ To enable content experiments in your course, you add ``split_test`` to the
 
 #. At the bottom of the page, click **Save Changes**.
 
+#. Reload the page to update the **Settings** menu.
+
 .. _Overview of Group Configurations:
 
 ****************************************
